@@ -1,0 +1,4 @@
+raw_data/corpus
+src/pretrained_data
+src/pretrained_data_with_wikipedia
+.DS_Store
